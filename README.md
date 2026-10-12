@@ -22,8 +22,8 @@ Shift  Z    X    C    V    B         N    M    ,    .    /    Esc
 **Lower**
 
 ```
-Tab    1    2    3    4    5         6    ←    ↓    ↑    →    Bksp
-BTClr  BT1  BT2  BT3  BT4  BT5       ·    ·    ·    ·    ·    ·
+Tab    1    2    3    4    5         6    7    8    9    0    Bksp
+BTClr  BT1  BT2  BT3  BT4  BT5       ←    ↓    ↑    →    ·    ·
 Shift  ·    ·    ·    ·    ·         ·    ·    ·    ·    ·    ·
                  Gui  ·    Space     Enter ·    RAlt
 ```
